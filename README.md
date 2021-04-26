@@ -2,4 +2,4 @@
 
 |Submenu|Links|
 |-------|-----|
-|Images|[Here](https://dj-jr30.gthub.io/VortexEsports-File-Host/imgs/README.md)|
+|Images|[Here](https://dj-jr30.github.io/VortexEsports-File-Host/imgs/README.md)|
